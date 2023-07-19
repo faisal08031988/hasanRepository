@@ -22,7 +22,7 @@ public class AmazonPage {
 //	    driver.close();
 	    
 	    
-	    int num=5;
+	    int num=10;
 	    double num1=5.3;
 	    double numTotal =num + num1;
 	    String name= "md ahmad";
@@ -43,8 +43,12 @@ public class AmazonPage {
 	   for (String b :a) {
 		   
 		   System.out.println(b);
+		   
 		  
 	   }
+	   
+	   
+	   
 	    }
 	    }
 	 
